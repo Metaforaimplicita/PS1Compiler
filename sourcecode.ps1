@@ -1,4 +1,4 @@
-$Host.UI.RawUI.WindowTitle = "Compilador Maestro ps2exe - Nivel Experto v2.0"
+$Host.UI.RawUI.WindowTitle = "Compilador Maestro ps2exe - V1.0" by metaforaimplicita
 
 # 1. Verificacion y Auto-Elevacion a Administrador
 $isAdmin = ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)
