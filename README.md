@@ -1,4 +1,4 @@
-# PS1Compiler
+# PS1Compiler by metaforaimplicita
 Use this for fast compile to .exe your ps1 scripts
 First use the option 1
 When step 1 finished use the option 2
